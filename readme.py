@@ -1,7 +1,0 @@
-"Hi there"
-"Still learning"
-"Making progress"
-"Added smth for checking switch between branches"
-"One more"
-"Hellew"
-"I wanna thank me"
